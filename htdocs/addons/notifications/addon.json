@@ -1,0 +1,23 @@
+{
+    "name": "Notifications",
+    "version": "1.0.0",
+    "description": "Real-time notifications for orders, customers, and staff",
+    "author": "Luna Dine Development Team",
+    "dependencies": [],
+    "hooks": {
+        "admin_menu": "Notifications::adminMenu",
+        "frontend_header": "Notifications::frontendHeader",
+        "order_created": "Notifications::onOrderCreated",
+        "order_updated": "Notifications::onOrderUpdated",
+        "user_login": "Notifications::onUserLogin"
+    },
+    "settings": {
+        "enable_email_notifications": "true",
+        "enable_push_notifications": "true",
+        "enable_sms_notifications": "false",
+        "email_order_created": "true",
+        "email_order_ready": "true",
+        "push_order_status": "true",
+        "sound_enabled": "true"
+    }
+}

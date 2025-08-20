@@ -1,0 +1,25 @@
+{
+    "name": "Dark Theme",
+    "version": "1.0.0",
+    "description": "Elegant dark theme for Luna Dine with modern aesthetics",
+    "author": "Luna Dine Development Team",
+    "settings": {
+        "primary_color": "#9333ea",
+        "secondary_color": "#7c3aed",
+        "accent_color": "#a855f7",
+        "background_color": "#0f172a",
+        "text_color": "#e2e8f0",
+        "border_color": "#334155",
+        "font_family": "Inter, system-ui, sans-serif",
+        "font_size": "16px",
+        "border_radius": "12px",
+        "shadow": "0 4px 6px rgba(0, 0, 0, 0.3)",
+        "transition": "all 0.3s ease",
+        "header_height": "70px",
+        "footer_height": "60px",
+        "container_max_width": "1200px",
+        "button_padding": "12px 24px",
+        "card_padding": "24px",
+        "section_spacing": "80px"
+    }
+}

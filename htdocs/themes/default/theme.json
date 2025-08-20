@@ -1,0 +1,25 @@
+{
+    "name": "Default Theme",
+    "version": "1.0.0",
+    "description": "Clean and modern default theme for Luna Dine",
+    "author": "Luna Dine Development Team",
+    "settings": {
+        "primary_color": "#667eea",
+        "secondary_color": "#764ba2",
+        "accent_color": "#f093fb",
+        "background_color": "#ffffff",
+        "text_color": "#333333",
+        "border_color": "#e2e8f0",
+        "font_family": "Inter, system-ui, sans-serif",
+        "font_size": "16px",
+        "border_radius": "8px",
+        "shadow": "0 4px 6px rgba(0, 0, 0, 0.1)",
+        "transition": "all 0.3s ease",
+        "header_height": "70px",
+        "footer_height": "60px",
+        "container_max_width": "1200px",
+        "button_padding": "12px 24px",
+        "card_padding": "24px",
+        "section_spacing": "80px"
+    }
+}
